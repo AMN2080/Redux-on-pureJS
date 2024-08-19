@@ -1,3 +1,7 @@
 # [Demo without modular structure](https://codepen.io/AMN2080/pen/ZEdrxrW)
 
-This project is a simple implementation of the Redux library using pure JavaScript. Redux is a state management library for JavaScript applications that allows you to manage the state of your app in a predictable way. In this project, Redux is implemented from scratch without using any external libraries like React or Redux itself. The project is designed as a tutorial and a simple example to help you understand the core concepts of Redux and improve your understanding of how state management works in JavaScript applications.
+This mini-project is a simple implementation of the Redux library using pure JavaScript.
+
+In this mini-project, Redux is implemented from scratch without using any external libraries like React or Redux itself.
+
+**The mini-project is designed as a tutorial and a simple example to demonstrate the core concepts of Redux and to provide a better understanding of how state management works in JavaScript applications.**
