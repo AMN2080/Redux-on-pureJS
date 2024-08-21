@@ -1,7 +1,6 @@
 # Todo-list with Redux on pure JavaScript
-**[demo](https://redux-on-pure-js.vercel.app/)**
-
 This mini-project is a simple implementation of the Redux library using pure JavaScript.
+**[demo](https://redux-on-pure-js.vercel.app/)**
 
 In this mini-project, Redux is implemented from scratch without using any external libraries like React.
 
