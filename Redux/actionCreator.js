@@ -1,15 +1,22 @@
-import { counterDecrease, counterReset, counterIncrease } from "./counterType";
+import { addTodo, deleteTodo, completeTodo } from "./todoType.js";
 
-function increaseAction() {
-  return { type: counterIncrease };
+function addTodoAction(title) {
+  return {
+    type: addTodo,
+    title,
+  };
+}
+function completeTodoAction(id) {
+  return {
+    type: completeTodo,
+    id,
+  };
+}
+function deleteTodoAction(id) {
+  return {
+    type: deleteTodo,
+    id,
+  };
 }
 
-function resetAction() {
-  return { type: counterReset };
-}
-
-function decreaseAction() {
-  return { type: counterDecrease };
-}
-
-export { increaseAction, resetAction, decreaseAction };
+export { addTodoAction, deleteTodoAction, completeTodoAction };
