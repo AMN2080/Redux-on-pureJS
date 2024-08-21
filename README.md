@@ -1,4 +1,5 @@
-# [demo](https://redux-on-pure-js.vercel.app/)
+# Todo-list with Redux on pure JavaScript
+**[demo](https://redux-on-pure-js.vercel.app/)**
 
 This mini-project is a simple implementation of the Redux library using pure JavaScript.
 
